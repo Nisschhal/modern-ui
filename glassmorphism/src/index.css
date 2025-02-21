@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --shadow-box: -3px -3px 7px #ffffff, 3px 3px 5px #d3d3d3;
+  --shadow-inbox: inset -3px -3px 7px #ffffff, inset 3px 3px 5px #d3d3d3;
+}
